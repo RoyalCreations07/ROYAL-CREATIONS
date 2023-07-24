@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐌𝐀𝐇𝐄𝐒𝐇𝐁𝐎𝐓𝟗𝟗!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐌𝐀𝐇𝐄𝐒𝐇𝐁𝐎𝐓𝟗𝟗!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐑𝐎𝐘𝐀𝐋𝐁𝐎𝐓𝟎𝟕!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐑𝐎𝐘𝐀𝐋𝐁𝐎𝐓𝟎𝟕!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)
 </p>
 <p align="center">
   <img src="https://graph.org/file/f9638058538d1c47b97d3.jpg" alt="ADV AUTO FILTER BOT">
