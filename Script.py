@@ -14,7 +14,7 @@ class script(object):
 
     MY_OWNER_TXT = """<b>★ Name: YASHU.R</b>
 <b>★ Username: @yashu1515</b>
-<b>★ ID:</b> <code>5450011131</code>
+<b>★ ID:</b> <code>5356695781</code>
 <b>★ Country: India</b>"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
